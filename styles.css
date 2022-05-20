@@ -1,0 +1,39 @@
+body {
+    background-color: powderblue;
+    border: double black;
+
+}
+h1{    font-family: 'Fredoka One', cursive;
+    font-size: 36px;
+    margin:20px;
+}
+h2{    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin:20px;
+}
+h3{    font-family: 'Fredoka One', cursive;
+    font-size: 24px;
+    margin:20px;
+}
+p{    font-family: 'Fredoka One', cursive;
+    font-size: 18px;
+    margin:20px;
+}
+a{   font-family: 'Fredoka One', cursive;
+    font-size: 18px;
+    margin:20px;
+}
+img {
+    width: 600px;
+    margin:20px;
+}
+div{margin:50px;}
+li {
+    font-family: 'Fredoka One', cursive;
+    font-size: 18px;
+    margin:20px;
+}
+audio{
+margin:20px;}
+iframe {
+margin:20px;}
